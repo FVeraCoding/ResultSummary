@@ -14,13 +14,15 @@
 
 ## Descripción
 
-Este proyecto es una solución al desafío de [Frontend Mentor] https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub. 
+Este proyecto es una solución al desafío de Frontend Mentor - Result Summary.
 Frontend Mentor ayuda a mejorar tus habilidades de codificación construyendo proyectos realistas. 
 Los desafíos son ideales para practicar HTML, CSS y JavaScript, así como para mejorar tus habilidades en diseño responsive y en el uso de frameworks modernos.
 
 ## Capturas de Pantalla
-
+Vista Móvil.
 ![Vista Móvil](design/mobile-design.jpg)
+
+Vista de Escritorio.
 ![Vista Escritorio](design/desktop-design.jpg)
 
 ## Instalación
