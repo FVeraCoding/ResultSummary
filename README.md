@@ -15,14 +15,17 @@
 ## Descripción
 
 Este proyecto es una solución al desafío de Frontend Mentor - Result Summary.
+
 Frontend Mentor ayuda a mejorar tus habilidades de codificación construyendo proyectos realistas. 
+
 Los desafíos son ideales para practicar HTML, CSS y JavaScript, así como para mejorar tus habilidades en diseño responsive y en el uso de frameworks modernos.
 
 ## Capturas de Pantalla
-Vista Móvil.
+
+### Vista Móvil
 ![Vista Móvil](design/mobile-design.jpg)
 
-Vista de Escritorio.
+### Vista de Escritorio
 ![Vista Escritorio](design/desktop-design.jpg)
 
 ## Instalación
@@ -46,9 +49,9 @@ Para instalar y ejecutar este proyecto localmente, sigue estos pasos:
 
 ## Autor
 
-- Portfolio - Fernando Vera(https://benevolent-frangipane-800c24.netlify.app/)
-- Frontend Mentor - @FVeraCoding ([https://www.frontendmentor.io/profile/tu-usuario](https://www.frontendmentor.io/profile/FVeraCoding))
-- GitHub - @FVeraCoding ((https://github.com/FVeraCoding))
+- Portfolio - Fernando Vera (https://benevolent-frangipane-800c24.netlify.app/)
+- Frontend Mentor - @FVeraCoding (https://www.frontendmentor.io/profile/FVeraCoding)
+- GitHub - @FVeraCoding (https://github.com/FVeraCoding)
 
 ## Agradecimientos
 
